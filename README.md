@@ -1,1 +1,1 @@
-# My study Projekt - food-orderApp
+# My study Project - food-orderApp
